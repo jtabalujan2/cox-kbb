@@ -1,0 +1,15 @@
+{
+   "name": "cox-kbb",
+   "version": "1.0.0",
+   "description": "Cox - Kelly Blue Book take home assignment",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "julian tabalujan",
+   "license": "ISC",
+   "dependencies": {
+      "axios": "^0.20.0",
+      "statman-stopwatch": "^2.11.1"
+   }
+}
